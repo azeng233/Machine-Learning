@@ -25,12 +25,11 @@ def count_frequencies(word_list):
     return freq
 
 
-# In[]
 if __name__ == '__main__':
     # setting paths
     fname_text = 'texts/article.txt'
     fname_stop = 'stopwords/hit_stopwords.txt'
-    fname_mask = 'pictures/owl.jpeg'
+    fname_mask = 'pictures/冰墩墩.jpg'
     fname_font = 'SourceHanSerifK-Light.otf'
 
     # read in texts (an article)
